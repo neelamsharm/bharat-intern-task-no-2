@@ -1,0 +1,1 @@
+This repository contains the code for building a Netflix-inspired homepage using HTML and CSS. The project aims to replicate the visual design and layout of the Netflix homepage, providing a starting point for creating similar interfaces or enhancing web development skills.
